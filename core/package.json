@@ -23,7 +23,7 @@
   "dependencies": {
     "es6-promisify": "^6.0.0",
     "eth-crypto": "^1.2.4",
-    "web3-utils": "^1.0.0-beta.36",
+    "web3-utils": "^1.6.0",
     "webcrypto": "^0.1.1"
   }
 }
